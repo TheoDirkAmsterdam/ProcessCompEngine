@@ -3,3 +3,6 @@
 	url = https://git.simplex4data.de/open-source/simplexclient
 	branch = objectclient
 	
+[submodule "simplexclient"]
+	path = simplexclient
+	url = https://git.simplex4data.de/open-source/simplexclient
