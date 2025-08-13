@@ -1,0 +1,5 @@
+[submodule "SimplexClient"]
+	path = SimplexClient
+	url = https://git.simplex4data.de/open-source/simplexclient.git
+	branch = objectclient
+	
